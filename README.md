@@ -2,6 +2,8 @@ Hi! I mostly use this place as a  storage for my game projects. I'm very new to 
 
 Don't expect too many updates here lol.
 
+![Metrics](/github-metrics.svg)
+
 <code>u
 name: Example
 uses: lowlighter/metrics@latest
