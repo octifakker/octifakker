@@ -1,4 +1,7 @@
 <span style="font-family: 'Comic Sans';">
+<style>
+  @font-face {font-family: "Gamja";font-style: normal; font-display: swap}
+</style>
 
 Hi! I mostly use this place as a  storage for my game projects. I'm very new to coding and using GitHub overall. 
 
