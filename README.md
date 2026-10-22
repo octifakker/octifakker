@@ -2,7 +2,7 @@
 <style>
   @font-face {font-family: "Gamja";font-style: normal; font-display: swap}
 </style>
-<div style="font-family: "Gamja";font-style: normal; ">
+<div style="font-family: "Gamja">
 Hi! I mostly use this place as a  storage for my game projects. I'm very new to coding and using GitHub overall. 
 
 Don't expect too many updates here lol.</span>
