@@ -1,8 +1,8 @@
-<span style="font-family: 'Lucida Console';">foo</span>
+<span style="font-family: 'Lucida Console';">
 
 Hi! I mostly use this place as a  storage for my game projects. I'm very new to coding and using GitHub overall. 
 
-Don't expect too many updates here lol.
+Don't expect too many updates here lol.</span>
 
 [This is a comment that will be hidden.]: # 
 
