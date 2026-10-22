@@ -1,4 +1,4 @@
-<div style="font-family: 'Comic Sans';">
+<div style="font-family: 'Comic Sans'; font-display: swap">
 Hi! I mostly use this place as a  storage for my game projects. I'm very new to coding and using GitHub overall. 
 
 Don't expect too many updates here lol.
