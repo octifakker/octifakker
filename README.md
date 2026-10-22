@@ -1,4 +1,5 @@
-span style="font-family: 'Lucida Console';">foo</span>
+<span style="font-family: 'Lucida Console';">foo</span>
+
 Hi! I mostly use this place as a  storage for my game projects. I'm very new to coding and using GitHub overall. 
 
 Don't expect too many updates here lol.
